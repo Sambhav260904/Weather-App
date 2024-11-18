@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Roboto', Arial, sans-serif;
+}
+
+body{
+    height: 100vh;
+    background:url('image.png') no-repeat center center;
+    background-size: 1920px 1080px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+}
+
+h1{
+    /* display: flex;
+    justify-content: center; */
+    color: white;
+    font-weight: bold;
+}
+
+.cityname{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
