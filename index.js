@@ -1,6 +1,6 @@
 // api key for weather app 
 
-const apiKey = "3d748b3f92a37ae8901bdedd15a157bd";
+const apiKey = "YOUR API KEY HERE";
 
 
 async function getweather_info(city) {
